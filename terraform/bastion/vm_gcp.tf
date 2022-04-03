@@ -4,7 +4,7 @@ resource "google_compute_instance" "default" {
   zone         = var.zone
   project = var.project
 
-  oot_disk {
+  boot_disk {
     initialize_params {
       image = "centos-cloud/centos-7"
     }
