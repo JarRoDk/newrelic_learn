@@ -1,4 +1,4 @@
-variable "name" {
+variable "name_instance" {
   description = "give name for your instance"
 }
 variable "machine_type" {

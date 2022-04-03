@@ -10,6 +10,7 @@
 */terraform.tfvars
 */**/*.tfvars
 */**/*.terraform.tfstate
+*/**/terraform.*
 
 # user specific configuration, that overrides .tfswitchrc
 .tfswitch.toml
