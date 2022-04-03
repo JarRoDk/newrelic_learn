@@ -2,7 +2,10 @@ repos:
 - repo: http://github.com/antonbabenko/pre-commit-terraform
   rev: v1.64.1
   hooks:
-    - id: infracost_breakdown
+    #    - id: infracost_breakdown
+    #      args:
+    #        - --args=--path=./env/dev
+    #      verbose: true # Always show costs
     - id: terraform_fmt
     - id: terraform_validate
     - id: terraform_docs_replace
