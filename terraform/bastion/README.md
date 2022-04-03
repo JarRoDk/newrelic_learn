@@ -1,8 +1,6 @@
 ## Requirements
 
-| Name | Version |
-|------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | ~> 1.1 |
+No requirements.
 
 ## Providers
 
@@ -35,3 +33,4 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_gcloud_ssh_command"></a> [gcloud\_ssh\_command](#output\_gcloud\_ssh\_command) | n/a |
+| <a name="output_public_ip"></a> [public\_ip](#output\_public\_ip) | n/a |
