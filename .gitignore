@@ -1,0 +1,15 @@
+.log
+*.iml
+*.ipr
+*.iws
+*.plan
+*.swp
+
+.terraform/
+*/**/.terraform*
+*/terraform.tfvars
+*/**/*.tfvars
+*/**/*.terraform.tfstate
+
+# user specific configuration, that overrides .tfswitchrc
+.tfswitch.toml
