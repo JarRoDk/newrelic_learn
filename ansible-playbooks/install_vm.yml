@@ -3,3 +3,5 @@
    - andrewrothstein.k3d
    - geerlingguy.docker
    - alexmisk.ansible_role_zsh
+   - githubixx.kubectl
+   - common

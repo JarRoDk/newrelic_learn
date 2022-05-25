@@ -1,3 +1,4 @@
 - src: andrewrothstein.k3d
 - src: geerlingguy.docker
 - src: alexmisk.ansible_role_zsh
+- src: githubixx.kubectl
